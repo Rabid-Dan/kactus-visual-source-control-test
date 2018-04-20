@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "A0623F3E-01E7-45EB-8070-7795342262AC",
+  "do_objectID": "C88AE5C5-9FFC-469A-95D4-9695595958B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -232,
+    "base": -235,
     "guides": [
     ]
   },
@@ -33,12 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "58EB3A99-DC13-4182-9CDE-F3257B93C6A3"
+      "class": "symbolMaster",
+      "id": "A6889DF6-B9EA-49B0-A2B3-22EF49423855"
     }
   ],
-  "name": "components",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -156,
+    "base": -258,
     "guides": [
     ]
   }

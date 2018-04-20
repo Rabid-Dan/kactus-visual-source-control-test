@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "A0623F3E-01E7-45EB-8070-7795342262AC",
+  "_class": "symbolInstance",
+  "do_objectID": "58EB3A99-DC13-4182-9CDE-F3257B93C6A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +13,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 67,
+    "width": 67,
+    "x": 580,
+    "y": 330
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -232,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "58EB3A99-DC13-4182-9CDE-F3257B93C6A3"
-    }
+  "name": "camera-button",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "components",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,10 +41,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -156,
-    "guides": [
-    ]
-  }
+  "symbolID": "349DDEB8-53BC-486C-A142-04A815B4370B",
+  "verticalSpacing": 0
 }
