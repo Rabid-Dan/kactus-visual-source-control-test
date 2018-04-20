@@ -16,11 +16,11 @@
     "constrainProportions": false,
     "height": 1804.021209707475,
     "width": 833.0139433345006,
-    "x": 431.9927180388818,
-    "y": -216.0212097074751
+    "x": 0.992718038881776,
+    "y": 0.9787902925249057
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,7 +32,7 @@
       "id": "EEF50CD0-D00D-417D-94C2-49FAEFBD2B44"
     }
   ],
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
