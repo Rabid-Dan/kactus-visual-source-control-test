@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A158A4D1-192E-46CC-9847-194B7AACB6E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4C9C200-273F-49D7-B5B3-16D02DBE6C4D"
+    }
   ],
   "name": "components",
   "nameIsFixed": true,
