@@ -35,6 +35,14 @@
     {
       "class": "symbolInstance",
       "id": "58EB3A99-DC13-4182-9CDE-F3257B93C6A3"
+    },
+    {
+      "class": "group",
+      "id": "DC959614-1053-4747-880A-F5748B8FC11A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4BCB97C-0B5B-41CE-A107-5D419C836FB8"
     }
   ],
   "name": "components",
